@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />
 </p>
 <!--
 **joseph625/joseph625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
