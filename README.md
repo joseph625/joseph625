@@ -2,6 +2,7 @@
 <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />
 </p>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **joseph625/joseph625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
