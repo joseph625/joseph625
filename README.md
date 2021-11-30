@@ -6,9 +6,16 @@
 
 <table>
   <tr>
+    <td valign="top">
     <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white'/>
-
+    </td>
+    <td valign="top">
     <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black'/>
+    </td>
+    
+    
+
+    
   </tr>
 </table>
 
