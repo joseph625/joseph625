@@ -8,10 +8,9 @@
     
 </div>
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
+<div>
+  <div style="display: flex;">
     <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white'/>
-    
     <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black'/>
   </div>
 </div>
