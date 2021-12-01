@@ -3,16 +3,22 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />
 </p>
 
+<p align="center"> 
+ سەردانکەران<br><br>
+  <img src="https://profile-counter.glitch.me/joseph625/count.svg" />
+</p>
 
-<div style="display: flex; align-items: flex-start;">
-    
-</div>
 
-<h2>Skills</h2>
+<h3 align="center">سڵاو 👋, من یوسف جاسم</h1>
+<h3 align="center" dir="rtl">Front End Developer  😜</h3>
+
+
+<h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 <div>
   <div style="display: flex;">
     <img src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
     <img src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white' />
+    <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/>
     <img src='https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white' />
     <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white' />
     <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white'/>
@@ -22,6 +28,7 @@
     <img src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white'/>
     <img src='https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white'/>
     <img src='https://img.shields.io/badge/-AntDesign-0170FE?logo=antdesign&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-MaterialUI-0081CB?logo=materialui&logoColor=white' />
   </div>
 </div>
 
