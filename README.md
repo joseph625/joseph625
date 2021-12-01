@@ -10,10 +10,10 @@
 
 
 <h3 align="center">سڵاو 👋, من یوسف جاسم</h1>
-<h3 align="center" dir="rtl">Front End Developer  😜</h3>
+<h3 align="center" dir="rtl">🙂 Front End Developer 🙂</h3>
 
 
-<h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
+<h3 align="right"><b> شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
   <div style="display: flex;">
     <img src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
     <img src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white' />
