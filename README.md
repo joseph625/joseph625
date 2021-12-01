@@ -14,7 +14,6 @@
 
 
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
-<div>
   <div style="display: flex;">
     <img src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
     <img src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white' />
@@ -24,13 +23,20 @@
     <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white'/>
     <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
     <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white'/>
-    <img src='https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white'/>
-    <img src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white'/>
     <img src='https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white'/>
     <img src='https://img.shields.io/badge/-AntDesign-0170FE?logo=antdesign&logoColor=white'/>
     <img src='https://img.shields.io/badge/-MaterialUI-0081CB?logo=materialui&logoColor=white' />
   </div>
-</div>
+  
+   <div style="display: flex;">
+    <img src='https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white'/>
+   </div>
+  
+  
+
 
 
 <!--
