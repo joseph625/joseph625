@@ -8,6 +8,7 @@
     
 </div>
 
+<h2>Skills</h2>
 <div>
   <div style="display: flex;">
     <img src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
