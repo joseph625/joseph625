@@ -13,6 +13,8 @@
   <div style="display: flex;">
     <img src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
     <img src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white' />
+    <img src='https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white' />
+    <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white' />
     <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white'/>
     <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white'/>
   </div>
