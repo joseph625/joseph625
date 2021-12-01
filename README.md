@@ -18,6 +18,10 @@
     <img src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white'/>
     <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
     <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white'/>
+    <img src='https://img.shields.io/badge/-AntDesign-0170FE?logo=antdesign&logoColor=white'/>
   </div>
 </div>
 
