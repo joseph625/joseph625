@@ -48,7 +48,9 @@
 <!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<!--
 <a href="https://app.daily.dev/Yousif"><img src="https://api.daily.dev/devcards/050bb99900334d478bfc73d66a8edcb0.png?r=nf8" width="400" alt="Yousif Jasm's Dev Card"/></a>
+-->
 <p align="center"> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Joseph625"/></a>
@@ -88,7 +90,7 @@
     <img src='https://img.shields.io/badge/-AntDesign-0170FE?logo=antdesign&logoColor=white'/>
     <img src='https://img.shields.io/badge/-MaterialUI-0081CB?logo=materialui&logoColor=white' />
     <img src='https://img.shields.io/badge/-FontAwesome-339AF0?logo=fontawesome&logoColor=white'/>
-    <img src='https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white' />
+  <!--   <img src='https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white' /> -->
     <img src='https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white' />
     <img src='https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white'/>
     <img src='https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white'/>
