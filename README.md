@@ -30,7 +30,9 @@
 
 <!-- Social icons section -->
 <p align="center"> 
+  <!--
   <a href="https://twitter.com/YousifJasm001"><img src="https://img.icons8.com/clouds/70/000000/twitter.png"/></a>
+-->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/yusf.jasm.3/" alt="Dev Pro Tips Discussion & Support Server"><img src="https://img.icons8.com/clouds/70/000000/facebook-new--v2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
