@@ -1,7 +1,7 @@
 
 <p align="center"> 
   <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />-->
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif" width="500" />
+  <!--<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/chill%20scene.gif" width="500" /> -->
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width="500" />
 </p>
 
