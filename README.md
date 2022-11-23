@@ -54,13 +54,14 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <!--
 <a href="https://app.daily.dev/Yousif"><img src="https://api.daily.dev/devcards/050bb99900334d478bfc73d66a8edcb0.png?r=nf8" width="400" alt="Yousif Jasm's Dev Card"/></a>
--->
+
 <p align="center"> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Joseph625"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Joseph625?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+-->
 
 ## 🔥 Streak stats
 
